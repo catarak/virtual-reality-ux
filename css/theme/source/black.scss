@@ -22,13 +22,15 @@ $mainColor: #fff;
 $headingColor: #fff;
 
 $mainFontSize: 38px;
-$mainFont: 'Source Sans Pro', Helvetica, sans-serif;
-$headingFont: 'Source Sans Pro', Helvetica, sans-serif;
+// $mainFont: 'Neue Haas Grotesk', Helvetica, sans-serif;
+// $headingFont: 'Neue Haas Grotesk', Helvetica, sans-serif;
+$mainFont: 'Inconsolata', monospace;
+$headingFont: 'Inconsolata', monospace;
 $headingTextShadow: none;
 $headingLetterSpacing: normal;
 $headingTextTransform: uppercase;
 $headingFontWeight: 600;
-$linkColor: #42affa;
+$linkColor: #fff;
 $linkColorHover: lighten( $linkColor, 15% );
 $selectionBackgroundColor: lighten( $linkColor, 25% );
 

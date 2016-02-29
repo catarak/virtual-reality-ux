@@ -238,6 +238,9 @@ body {
 	color: $linkColor;
 	text-decoration: none;
 
+	padding-bottom: 2px;
+	border-bottom: 1px solid #fff;
+
 	-webkit-transition: color .15s ease;
 	   -moz-transition: color .15s ease;
 	        transition: color .15s ease;
@@ -246,7 +249,7 @@ body {
 		color: $linkColorHover;
 
 		text-shadow: none;
-		border: none;
+		// border: none;
 	}
 
 .reveal .roll span:after {
